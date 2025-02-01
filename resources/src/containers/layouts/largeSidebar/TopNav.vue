@@ -11,7 +11,7 @@
       <div></div>
       <div></div>
     </div>
-
+    <h1>NAKUZU COSMETICS AND GENERAL MERCHANDISE</h1>
     <div style="margin: auto"></div>
 
     <div class="header-part-right">

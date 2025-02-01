@@ -22,7 +22,7 @@
     <!-- built files will be auto injected -->
     <div class="loading_wrap" id="loading_wrap">
       <div class="loader_logo">
-      <!-- <img src="/images/logo.webp" class="" alt="logo" /> -->
+      <img src="/images/logo.webp" class="" alt="logo" />
 
       </div>
 

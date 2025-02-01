@@ -410,9 +410,8 @@
               </b-row>
             </b-card>
            
-            <b-card class="mt-3">
+            <!-- <b-card class="mt-3">
               <b-row>
-                <!-- Product_Has_Imei_Serial_number -->
                 <b-col md="12 mb-2">
                   <ValidationProvider rules vid="product" v-slot="x">
                     <div class="form-check">
@@ -425,7 +424,6 @@
                   </ValidationProvider>
                 </b-col>
 
-                <!-- This_Product_Not_For_Selling -->
                 <b-col md="12 mb-2">
                   <ValidationProvider rules vid="product" v-slot="x">
                     <div class="form-check">
@@ -438,7 +436,7 @@
                   </ValidationProvider>
                 </b-col>
               </b-row>
-            </b-card>
+            </b-card> -->
           </b-col>
 
           <b-col md="4">

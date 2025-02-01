@@ -1515,7 +1515,7 @@ class ProductsController extends BaseController
         $item['images'] = [];
         if ($Product->image != '' && $Product->image != 'no-image.png') {
             foreach (explode(',', $Product->image) as $img) {
-                $path = public_path() . '/images/products/' . $img;
+                $path = public_path() . 'images/products/' . $img;
                 if (file_exists($path)) {
                     $itemImg['name'] = $img;
                     $type = pathinfo($path, PATHINFO_EXTENSION);

@@ -28,7 +28,7 @@
     width: 55px;
     height: 55px;
     border-radius: 50%;
-    border-top-color: #3b82f6;
+    border-top-color: #549c40;
     animation: loader 1s ease-in-out infinite;
     -webkit-animation: loader 1s ease-in-out infinite;
   }

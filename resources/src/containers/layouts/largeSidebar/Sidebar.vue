@@ -44,7 +44,7 @@
             </a>
             <div class="triangle"></div>
           </li>
-          <li
+          <!-- <li
             v-show="currentUserPermissions 
               && (currentUserPermissions.includes('adjustment_view')
               || currentUserPermissions.includes('adjustment_add'))"
@@ -59,12 +59,12 @@
               <span class="nav-text">{{$t('StockAdjustement')}}</span>
             </a>
             <div class="triangle"></div>
-          </li>
+          </li> -->
 
         
 
          
-          <li
+          <!-- <li
             v-show="currentUserPermissions && (currentUserPermissions.includes('Quotations_view') 
                       || currentUserPermissions.includes('Quotations_add'))"
             @mouseenter="toggleSubMenu"
@@ -78,7 +78,7 @@
               <span class="nav-text">{{$t('Quotations')}}</span>
             </a>
             <div class="triangle"></div>
-          </li>
+          </li> -->
           <li
             v-show="currentUserPermissions && (currentUserPermissions.includes('Purchases_view') 
                         || currentUserPermissions.includes('Purchases_add'))"

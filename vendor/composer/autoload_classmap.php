@@ -7228,7 +7228,6 @@ return array(
     'Symfony\\Component\\Mime\\Message' => $vendorDir . '/symfony/mime/Message.php',
     'Symfony\\Component\\Mime\\MessageConverter' => $vendorDir . '/symfony/mime/MessageConverter.php',
     'Symfony\\Component\\Mime\\MimeTypeGuesserInterface' => $vendorDir . '/symfony/mime/MimeTypeGuesserInterface.php',
-    'Symfony\\Component\\Mime\\MimeTypes' => $vendorDir . '/symfony/mime/MimeTypes.php',
     'Symfony\\Component\\Mime\\MimeTypesInterface' => $vendorDir . '/symfony/mime/MimeTypesInterface.php',
     'Symfony\\Component\\Mime\\Part\\AbstractMultipartPart' => $vendorDir . '/symfony/mime/Part/AbstractMultipartPart.php',
     'Symfony\\Component\\Mime\\Part\\AbstractPart' => $vendorDir . '/symfony/mime/Part/AbstractPart.php',
